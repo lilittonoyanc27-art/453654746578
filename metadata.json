@@ -1,0 +1,6 @@
+{
+  "name": "Pasapalabra — Испанский и Армянский",
+  "description": "Интерактивная игра в слова Pasapalabra на чистом JavaScript: 3 раунда по 27 букв испанского алфавита с переводом на армянский по клику.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
